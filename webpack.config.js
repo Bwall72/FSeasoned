@@ -14,7 +14,7 @@ module.exports = {
     devServer: {
         publicPath: "/",
         contentBase: "./public",
-        port: 8080,
+        port: 3000,
     },
     module: {
         rules: [{
@@ -22,4 +22,4 @@ module.exports = {
             use: "fable-loader"
         }]
     }
-}
+};
