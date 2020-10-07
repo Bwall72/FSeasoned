@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/home/brandonw/.nuget/packages/</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/home/brandonw/.nuget/packages/</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.6.0</NuGetToolVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgNETStandard_Library Condition=" '$(PkgNETStandard_Library)' == '' ">/home/brandonw/.nuget/packages/netstandard.library/2.0.3</PkgNETStandard_Library>
+    <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">/home/brandonw/.nuget/packages/fsharp.core/4.7.1</PkgFSharp_Core>
+    <PkgFable_Core Condition=" '$(PkgFable_Core)' == '' ">/home/brandonw/.nuget/packages/fable.core/3.1.5</PkgFable_Core>
+    <PkgFable_SimpleJson Condition=" '$(PkgFable_SimpleJson)' == '' ">/home/brandonw/.nuget/packages/fable.simplejson/3.11.0</PkgFable_SimpleJson>
+    <PkgFable_Browser_Dom Condition=" '$(PkgFable_Browser_Dom)' == '' ">/home/brandonw/.nuget/packages/fable.browser.dom/1.1.0</PkgFable_Browser_Dom>
+    <PkgFable_SimpleHttp Condition=" '$(PkgFable_SimpleHttp)' == '' ">/home/brandonw/.nuget/packages/fable.simplehttp/3.0.0</PkgFable_SimpleHttp>
+    <PkgFable_React Condition=" '$(PkgFable_React)' == '' ">/home/brandonw/.nuget/packages/fable.react/6.2.0</PkgFable_React>
+    <PkgFable_Elmish_React Condition=" '$(PkgFable_Elmish_React)' == '' ">/home/brandonw/.nuget/packages/fable.elmish.react/3.0.1</PkgFable_Elmish_React>
+    <PkgFable_Browser_Worker Condition=" '$(PkgFable_Browser_Worker)' == '' ">/home/brandonw/.nuget/packages/fable.browser.worker/1.0.0</PkgFable_Browser_Worker>
+    <PkgFable_Browser_Geolocation Condition=" '$(PkgFable_Browser_Geolocation)' == '' ">/home/brandonw/.nuget/packages/fable.browser.geolocation/1.0.0</PkgFable_Browser_Geolocation>
+    <PkgFable_Browser_Navigator Condition=" '$(PkgFable_Browser_Navigator)' == '' ">/home/brandonw/.nuget/packages/fable.browser.navigator/1.0.0</PkgFable_Browser_Navigator>
+    <PkgElmish Condition=" '$(PkgElmish)' == '' ">/home/brandonw/.nuget/packages/elmish/3.1.0</PkgElmish>
+  </PropertyGroup>
+</Project>

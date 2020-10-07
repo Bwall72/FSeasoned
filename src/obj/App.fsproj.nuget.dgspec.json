@@ -1,0 +1,113 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/c/Users/brand/FSeasoned/src/App.fsproj": {}
+  },
+  "projects": {
+    "/mnt/c/Users/brand/FSeasoned/src/App.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/c/Users/brand/FSeasoned/src/App.fsproj",
+        "projectName": "App",
+        "projectPath": "/mnt/c/Users/brand/FSeasoned/src/App.fsproj",
+        "packagesPath": "/home/brandonw/.nuget/packages/",
+        "outputPath": "/mnt/c/Users/brand/FSeasoned/src/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/mnt/c/Users/brand/FSeasoned/nuget.config",
+          "/home/brandonw/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Elmish": {
+              "target": "Package",
+              "version": "[3.1.0, )",
+              "generatePathProperty": true
+            },
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.1, )",
+              "generatePathProperty": true
+            },
+            "Fable.Browser.Dom": {
+              "target": "Package",
+              "version": "[1.1.0, )",
+              "generatePathProperty": true
+            },
+            "Fable.Browser.Geolocation": {
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "generatePathProperty": true
+            },
+            "Fable.Browser.Navigator": {
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "generatePathProperty": true
+            },
+            "Fable.Browser.Worker": {
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "generatePathProperty": true
+            },
+            "Fable.Core": {
+              "target": "Package",
+              "version": "[3.1.5, )",
+              "generatePathProperty": true
+            },
+            "Fable.Elmish.React": {
+              "target": "Package",
+              "version": "[3.0.1, )",
+              "generatePathProperty": true
+            },
+            "Fable.React": {
+              "target": "Package",
+              "version": "[6.2.0, )",
+              "generatePathProperty": true
+            },
+            "Fable.SimpleHttp": {
+              "target": "Package",
+              "version": "[3.0.0, )",
+              "generatePathProperty": true
+            },
+            "Fable.simplejson": {
+              "target": "Package",
+              "version": "[3.11.0, )",
+              "generatePathProperty": true
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true,
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
