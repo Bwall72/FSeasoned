@@ -6,3 +6,7 @@ c:/Users/brand/amq-extension/FSeasoned/src/obj/Debug/netstandard2.0/App.fsproj.C
 /mnt/c/Users/brand/amq-extension/FSeasoned/src/obj/Debug/netstandard2.0/App.AssemblyInfoInputs.cache
 /mnt/c/Users/brand/amq-extension/FSeasoned/src/obj/Debug/netstandard2.0/App.AssemblyInfo.fs
 /mnt/c/Users/brand/amq-extension/FSeasoned/src/obj/Debug/netstandard2.0/App.fsproj.CoreCompileInputs.cache
+/mnt/c/Users/brand/FSeasoned/src/bin/Debug/netstandard2.0/App.deps.json
+/mnt/c/Users/brand/FSeasoned/src/obj/Debug/netstandard2.0/App.AssemblyInfoInputs.cache
+/mnt/c/Users/brand/FSeasoned/src/obj/Debug/netstandard2.0/App.AssemblyInfo.fs
+/mnt/c/Users/brand/FSeasoned/src/obj/Debug/netstandard2.0/App.fsproj.CoreCompileInputs.cache
